@@ -6,7 +6,7 @@
   <h3 align="center">HealthTools.KE - theStar Health</h3>
 
   <p align="center">
-    Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+     Sleek, intuitive, and powerful front-end framework for faster and easier web development.Sleek, intuitive, and powerful front-end framework for faster and easier web development.Sleek, intuitive, and powerful front-end framework for faster and easier web development.Sleek, intuitive, and powerful front-end framework for faster and easier web development.Sleek, intuitive, and powerful front-end framework for faster and easier web development.Sleek, intuitive, and powerful front-end framework for faster and easier web development.Sleek, intuitive, and powerful front-end framework for faster and easier web development.Sleek, intuitive, and powerful front-end framework for faster and easier web development.
     <br>
   <a href="http://health.the-star.co.ke"><strong>Explore Project &raquo;</strong></a>
   </p>

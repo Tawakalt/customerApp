@@ -1,3 +1,5 @@
+![alt text](https://github.com/Tawakalt/customerApp/blob/master/public/21373090_119974738725589_8106619774697472000_n.jpg)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # ExpectedCounts
